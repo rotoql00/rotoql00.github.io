@@ -2,7 +2,9 @@
 layout: default
 ---
 {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
+<!--post.html 시작-->
 <div class="post-container">
+  <!--post.html-->
   <a class="post-link" href="{{ page.url | relative_url }}">
     <h2 class="post-title">{{ page.title | escape }}</h2>
   </a>
@@ -15,10 +17,13 @@ layout: default
     <div class="post-date"><i class="icon-calendar"></i>{{ page.date | date: date_format }}</div>
   </div>
   <div class="post">
+    <!--post.html-->
     {{ content }}
+    <!--post.html-->
   </div>
   {%- if site.plainwhite.disqus_shortname -%}
   <div id="disqus_thread" style="margin-top:25px"></div>
+  <!--post.html-->
   <script>
     var disqus_config = function () {
       this.page.url = '{{ page.url | absolute_url }}';
@@ -31,7 +36,9 @@ layout: default
       (d.head || d.body).appendChild(s);
     })();
   </script>
+  <!--post.html-->
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments
       powered by Disqus.</a></noscript>
   {%- endif -%}
 </div>
+<!--post.html 끝-->

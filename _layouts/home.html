@@ -3,12 +3,14 @@ layout: default
 ---
 
 {%- if page.title -%}
+<!--home.html 시작-->
   <h1 class="page-heading">{{ page.title }}</h1>
 {%- endif -%}
-
+<!--home.html-->
 {{ content }}
-
+<!--home.html-->
 {%- if site.posts.size > 0 -%}
+<!--home.html-->
   <ul class="posts">
     <li>
       <h1 id="posts-label">posts</h1>
@@ -43,3 +45,4 @@ layout: default
 		<use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use>
 	</svg><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p> -->
 {%- endif -%}
+<!--home.html 끝-->
