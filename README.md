@@ -1,3 +1,22 @@
+최성준 포트폴리오를 위한 Github 블로그
+#### 포트폴리오 웹페이지
+해당 페이지에서 포트폴리오 사이트로 이동하실수 있습니다
+ 항목 | 내용 
+|----|----|
+|개인블로그|[프로젝트](https://3eea-122-41-53-2.ngrok-free.app/)|
+<!--|localtunnel 서버|https://plain-onions-glow.loca.lt/|-->
+
+
+
+#### 포트폴리오 테스트 평가용 user  
+ 항목 | 내용 
+|----|----|
+|관리인 아이디|admin1, admin2, admin3 |
+|일반 유저 아이디|(테스트아이디)rotoql (이외 신규가입 테스트 환영)|
+|회원가입 및 활동 가능|통합 PW : 123456|
+전자정부 표준프레임워크 기반 B2C 온라인 상거래 사이트
+
+<!-- 리드미 주석
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
@@ -272,3 +291,4 @@ Pure Liquid Jekyll Table of Contents is distributed under the terms of the [MIT 
 Minimal Mistakes incorporates [Lunr](http://lunrjs.com),
 Copyright (c) 2018 Oliver Nightingale.
 Lunr is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+-->
