@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "BLOG" # "Site Title"
+locale                   : "ko-KR" # "en-US"
+title                    : "최군의 DevBlog" # "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "최 성준" # "Your Name" 좌측 목록
-description              : "An amazing website."
+name                     : "rotoql00" # "Your Name" 어디인지 모름
+description              : "An amazing website." # 어디인지 모름
 url                      : "https://rotoql00.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,8 +104,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "최 성준" # "Your Name"
-  avatar           : "/assets/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "최 성준" # "Your Name" 좌측 사이드바 
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "안녕하세요. 잘부탁드립니다." # "I am an **amazing** person."
   location         : "대한민국 서울"
   email            :
@@ -113,9 +113,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "portfolio" # "Website"
+    - label: "B2C 포트폴리오" # "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://3eea-122-41-53-2.ngrok-free.app"
+      url: " https://3eea-122-41-53-2.ngrok-free.app"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
