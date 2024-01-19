@@ -2,7 +2,7 @@
 # Front Matter입니다 아래는 속성들.
 title: "상세 이력서" #"[포스팅 예시] 이곳에 제목을 입력하세요"
 layout: single
-title:  "이력서"
+title:  "테스트파일"
 # classes: wide 본문 넓이 조절
 # excerpt: "본문의 주요 내용을 여기에 입력하세요"
 # permalink: /categories/ # 포스트 URL
@@ -22,4 +22,4 @@ title:  "이력서"
 # date: 2024-01-01 # 작성 날짜
 # last_modified_at: 2024-01-01 # 최종 수정 날짜
 ---
-
+숨김처리
