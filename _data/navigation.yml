@@ -5,15 +5,15 @@ main:
 sidebar-category:
   - title: "💻 Programming"
     children:
-      - title: "C#"
+      - title: "테스트1" # "C#"
         url: "/csharp"
         category: "csharp"
       
-      - title: "Minimal-Mistakes"
+      - title: "테스트2" # "Minimal-Mistakes"
         url: "/Minimal-Mistakes"
         category: "Minimal-Mistakes"
 
-      - title: "Tools"
+      - title: "테스트3" # "Tools"
         url: "/Tools"
         category: "Tools"
 #sidebar-category:
