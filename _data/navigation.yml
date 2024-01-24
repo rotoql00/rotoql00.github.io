@@ -2,6 +2,15 @@
 main:
   - title: "HOME"
     url: https://rotoql00.github.io/
+sidebar-category:
+  - title: "카테고리"
+    children:
+      - title: "블로그"
+        url: "/blog"
+      - title: "카테고리B"
+        url:  "/CategoryB"
+      - title: "카테고리C"
+        url:  "/CategoryC"
   #- title: "About"
   #  url: /about/
   # - title: "Sample Posts"
