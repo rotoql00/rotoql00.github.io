@@ -3,10 +3,24 @@ main:
   - title: "HOME"
     url: https://rotoql00.github.io/
 sidebar-category:
-  - title: "카테고리"
+  - title: "💻 Programming"
     children:
-      - title: "TIP"
-        url: "/tip"
+      - title: "C#"
+        url: "/csharp"
+        category: "csharp"
+      
+      - title: "Minimal-Mistakes"
+        url: "/Minimal-Mistakes"
+        category: "Minimal-Mistakes"
+
+      - title: "Tools"
+        url: "/Tools"
+        category: "Tools"
+#sidebar-category:
+#  - title: "카테고리"
+#    children:
+#      - title: "TIP"
+#        url: "/tip"
       #- title: "카테고리B"
       #  url:  "/CategoryB"
       #- title: "카테고리C"
