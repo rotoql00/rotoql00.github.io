@@ -2,6 +2,11 @@
 main:
   - title: "HOME"
     url: https://rotoql00.github.io/
+sidebar-category:
+  - title: "네비 카테고리"
+  children:
+    - title: "사이드 카테고리"
+    - url: "/categorySIDE"
   #- title: "About"
   #  url: /about/
   # - title: "Sample Posts"
