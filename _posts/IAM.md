@@ -24,6 +24,8 @@ classes: wide
 # last_modified_at: 2024-01-01 # 최종 수정 날짜
 ---
 
+<!--이미지 삭제-->
+
 ![01](/assets/images/0001.jpg)
 ![02](/assets/images/0002.jpg)
 ![03](/assets/images/0003.jpg)
